@@ -1,0 +1,72 @@
+/* Formatações Gerais */
+
+body {
+    background: #e6e6e6 !important;
+}
+
+.bg-custom {
+    background: #fff;
+}
+
+/* Formatação do conteúdo (Página Principal) */
+
+h3 {
+    text-align: center;
+}
+
+a {
+    color: #000 !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.bandeiras {
+    margin-bottom: 8px;
+    border-radius: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 50px;
+}
+
+.card {
+    height: 250px;
+}
+
+.card:hover {
+    background: #f2f2f2;
+}
+
+.linha1 {
+    margin-bottom: 20px;
+}
+
+/* Formatação Alemanha */
+
+.informacao-pais {
+    width: 1200px;
+    min-height: 400px;
+}
+
+.informacao-pais:hover {
+    background: #fff;
+}
+
+.descricao {
+    font-size: 25px;
+    font: Roboto, Arial, sans-serif;
+    padding: 10px;
+}
+
+.btn-custom {
+    margin-bottom: 8px;
+}
+
+.img-informacoes-paises {
+    padding: 40px 40px;
+}
