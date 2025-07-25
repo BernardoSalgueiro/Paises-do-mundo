@@ -17,6 +17,13 @@ de APIs REST e manipulação de dados com JavaScript, além de uma interface sim
 🌐 API Utilizada
 - REST Countries API
 
+🚀 Tecnologias Utilizadas:
+
+- HTML5 – Estrutura das páginas
+- CSS3 – Estilo visual e responsividade
+- JavaScript (ES6+) – Requisições HTTP, manipulação do DOM e lógica
+- Fetch API – Consumo de dados da API externa
+
 📸 Preview
 
 <img width="1366" height="634" alt="imagem1" src="https://github.com/user-attachments/assets/c5bc998d-103d-4273-a276-9050416ad437" />
